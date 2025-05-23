@@ -5,5 +5,4 @@ Mujahid Al Mahi
 <br>CSE-25
 <br>Khulna University
 # Tutor
-Javascript
-    Apna College
+1. Javascript (Apna College)
